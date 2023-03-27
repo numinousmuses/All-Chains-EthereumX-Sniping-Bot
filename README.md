@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="pancakex.png" width="200"/>
+  <img src="ethx.png" width="200"/>
   <h1>ETHX</h1>
   <h2>Ethereum Sniping bot</h2>
   <p>Snipe New Tokens on all ETH Dexes within 1 millisecond</p>
