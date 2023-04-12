@@ -50,7 +50,7 @@ python3 astra-eth.py
 ```
 The GUI will pop up
 
-```
+
 ## 💎 Successfull 40,000k snipe the other day :)
 
 ![Code preview](success.png)
