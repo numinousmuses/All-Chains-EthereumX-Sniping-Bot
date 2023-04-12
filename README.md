@@ -34,7 +34,7 @@
 
 ## 📦 Install
 
-1. Download python3.7.2+ for your PC from python org, extract the ABI and themes zip into the folder with the bot
+1. Download python3.7.2+ for your PC from python org
 
 2. Open terminal in the bot folder and type 
 
