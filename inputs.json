@@ -1,7 +1,7 @@
 {
   "AMOUNT": "0.001",
-  "GAS PRICE": "25",
-  "GAS LIMIT": "500000",
+  "GAS PRICE": "35",
+  "GAS LIMIT": "800000",
   "SLIPPAGE": "10",
   "AUTO SLIPPAGE": "true",
   "TP": "200",
