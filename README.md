@@ -19,7 +19,7 @@
   <p>ARBITRUM sniping bot: https://github.com/Yapote/ARBITRUM-SNIPING-BOT-ARBX</p>
 </div>
 
-![Code preview](defixinfographic.png)
+
 
 ## 🚀 Features
 
@@ -57,9 +57,9 @@ python3 astra-eth.py
 The GUI will pop up
 
 
-## 💎 Successfull 40,000k snipe the other day :)
+## 💎 Details :)
 
-![Code preview](success.png)
+![Code preview](defixinfographic.png)
 
 ## 🤝 Sponsors
 
