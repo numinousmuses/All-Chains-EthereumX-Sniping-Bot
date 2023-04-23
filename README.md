@@ -36,7 +36,7 @@
 
 OPTION 1, select your OS and download an executable GUI:
   
-  <img src="os.png" width="700"/>
+  [![OS](os.png)](https://defix.app/portfolio/ethereum-sniping-bot/)
   
 OPTION 2 for Linux, Windows and Mac users that want to run the opensourced code:
   
