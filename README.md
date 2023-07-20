@@ -15,7 +15,7 @@
   
 
 </div>
-
+  <p>Arbitrum Sniping Bot from myself: https://github.com/Abregud/Arbitrum-Opensource-Sniping-Bot</p>
 
 
 ## 🚀 Features
