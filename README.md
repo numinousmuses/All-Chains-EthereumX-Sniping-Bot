@@ -3,7 +3,7 @@
   <h1>ETHX</h1>
   <h2>Ethereum Sniping bot</h2>
   <p>Snipe New Tokens on all ETH Dexes within 1 millisecond</p>
-  <p>ALL CREDITS GO TO DEFIMASTERD AND HIS BSC SNIPING BOT</p>
+  <p>ALL CREDITS GO TO PROTOXS AND HIS BSC SNIPING BOT</p>
   
   [![Open Collective](https://img.shields.io/opencollective/backers/fakerjs)](https://opencollective.com/fakerjs#section-contributors)
   
@@ -16,6 +16,7 @@
 
 </div>
   <p>Arbitrum Sniping Bot from myself: https://github.com/Abregud/Arbitrum-Opensource-Sniping-Bot</p>
+  <p>BSC Sniping Bot from Protoxs: https://github.com/Protoxs/BSC-Sniping-Bot-Opensourced</p>
 
 
 ## 🚀 Features
