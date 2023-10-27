@@ -1,6 +1,6 @@
 <div align="center">
   <img src="ethx.png" width="200"/>
-  <h1>ETHX</h1>
+ 
   <h2>Ethereum Sniping bot</h2>
   <p>Snipe New Tokens on all ETH Dexes within 1 millisecond</p>
   <p>ALL CREDITS GO TO PROTOXS AND HIS BSC SNIPING BOT</p>
