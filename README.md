@@ -15,6 +15,7 @@
   
 
 </div>
+  <p>AVAX Sniping Bot: https://github.com/RevGev/AVAX-SNIPING-BOT-OPENSOURCE</p>
   <p>Arbitrum Sniping Bot from myself: https://github.com/Abregud/Arbitrum-Opensource-Sniping-Bot</p>
   <p>BSC Sniping Bot from Protoxs: https://github.com/Protoxs/BSC-Sniping-Bot-Opensourced</p>
 
