@@ -3,7 +3,6 @@
  
   <h2>Ethereum Sniping bot</h2>
   <p>Snipe New Tokens on all ETH Dexes within 1 millisecond</p>
-  <p>ALL CREDITS GO TO PROTOXS AND HIS BSC SNIPING BOT</p>
   
   [![Open Collective](https://img.shields.io/opencollective/backers/fakerjs)](https://opencollective.com/fakerjs#section-contributors)
   
