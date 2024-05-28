@@ -15,8 +15,8 @@
 
 </div>
 
-  <p>MEV Frontrunning Bot: https://github.com/Protoxs/MEV-Frontrunning-Sandwich-Bot-Opensource</p>
-  <p>SOLANA Sniping Bot: https://defix.shop/portfolio/solana-sniping-bot-opensource/</p>
+  <p>MEV Frontrunning Bot: https://github.com/DeFiSolMasterd</p>
+  <p>SOLANA Sniping Bot: https://github.com/DeFiSolMasterd</p>
   <p>AVAX Sniping Bot: https://github.com/RevGev/AVAX-SNIPING-BOT-OPENSOURCE</p>
   <p>Arbitrum Sniping Bot from myself: https://github.com/Abregud/Arbitrum-Opensource-Sniping-Bot</p>
   <p>BSC Sniping Bot from Protoxs: https://github.com/Protoxs/BSC-Sniping-Bot-Opensourced</p>
